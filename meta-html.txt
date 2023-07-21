@@ -1,0 +1,16 @@
+---
+title: The Spirit of Rockline
+author:
+- Charles Kunz
+date: 'July 21, 2023'
+rights: © 2023 Charles Kunz, CC BY-SA 4.0
+header-includes: |
+  <style>
+    body {
+      font-family: sans-serif;
+      font-size: 1.2em;
+      line-height: 1.4em;
+      max-width: 48em;
+    }
+  </style>
+...
