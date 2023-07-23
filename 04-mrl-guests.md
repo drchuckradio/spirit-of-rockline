@@ -3,7 +3,8 @@
 This list covers the guest history of Modern Rock Live in the years listed
 below. Some guest information could not be determined, and has been left as
 unknown, indicated with a question mark (?). Shows marked with an
-asterisk (^\*^) indicates a rebroadcast. For sources, see [About the Guest Data].
+asterisk (^\*^) indicates a rebroadcast. For sources and how to contribute
+corrections, see [Guest Data and Contributions].
 
 [1992](#mrl1992), [1993](#mrl1993), [1994](#mrl1994), [1995](#mrl1995), [1996](#mrl1996), [1997](#mrl1997), [1998](#mrl1998), [1999](#mrl1999), [2000](#mrl2000)
 

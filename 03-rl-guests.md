@@ -3,7 +3,8 @@
 This list covers the guest history of Rockline in the years listed below. Some
 guest information could not be determined, and has been left as unknown,
 indicated with a question mark (?). Shows marked with an asterisk (^\*^)
-indicates a rebroadcast. For sources, see [About the Guest Data].
+indicates a rebroadcast. For sources and how to contribute corrections, see
+[Guest Data and Contributions].
 
 **1980s**: [1981](#rl1981), [1982](#rl1982), [1983](#rl1983), [1984](#rl1984), [1985](#rl1985), [1986](#rl1986), [1987](#rl1987), [1988](#rl1988), [1989](#rl1989)\
 **1990s**: [1990](#rl1990), [1991](#rl1991), [1992](#rl1992), [1993](#rl1993), [1994](#rl1994), [1995](#rl1995), [1996](#rl1996), [1997](#rl1997), [1998](#rl1998), [1999](#rl1999)\

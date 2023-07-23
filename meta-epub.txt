@@ -3,7 +3,7 @@ title: The Spirit of Rockline
 creator:
 - role: author
   text: Charles Kunz
-date: 2023-07-21
+date: 2023-07-23
 rights: © 2023 Charles Kunz, CC BY-SA 4.0
 ibooks:
   version: 1.0
