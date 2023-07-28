@@ -532,7 +532,7 @@ November 13, 1989             Jethro Tull
 November 20, 1989             Motley Crue
 November 27, 1989             Lou Gramm
 December 4, 1989              Geddy Lee (Rush)
-December 6, 1989              Phil Collins
+December 6, 1989 (Wed.)       Phil Collins
 December 11, 1989             Grateful Dead
 December 18, 1989             Eddie Money / Giant
 December 25, 1989             Best of Rockline 1989 - Part One
