@@ -236,61 +236,61 @@ December 31, 1984          Best of Rockline 1984 (New Year's Eve Special)
 
 All broadcast dates are on Monday night, except where indicated.
 
-Broadcast Date          Guests
----------------         -------
-January 7, 1985         KISS / Giuffria
-January 14, 1985        George Thorogood / John Parr
-January 21, 1985        Toto / John Cafferty
-January 28, 1985        Ronnie James Dio / John Waite
-February  4, 1985       REO Speedwagon
-February  11, 1985      Patty Smyth (Scandal) / Elliot Easton (The Cars)
-February  18, 1985      Deep Purple
-February  25, 1985      The Firm
-March 4, 1985           Greg Kihn / Autograph
-March 11, 1985          Don Henley, Peter Wolf and Night Ranger
-March 18, 1985          Twisted Sister / Utopia
-March 25, 1985          Carlos Santana
-April 8, 1985           Foreigner
-April 15, 1985          Glenn Frey / Michael Bolton
-April 22, 1985          Kenny Loggins / Spinal Tap
-April 29, 1985          Bryan Adams
-May 6, 1985             Joe Walsh
-May 13, 1985            Dokken / Fiona / Lone Justice
-May 20, 1985            Supertramp
-May 27, 1985            Tom Petty and the Heartbreakers
-June 3, 1985            Robert Plant
-June 10, 1985           Ratt / Van Zant
-June 17, 1985           Bob Dylan
-June 24, 1985           John Cafferty / Kim Mitchell
-June 26, 1985 (Wed.)    Phil Collins
-July 1, 1985            Night Ranger
-July 8, 1985            Tears for Fears / Billy Crystal
-July 15, 1985           Heart
-July 22, 1985           Jeff Beck / R.E.M.
-July 29, 1985           Dave Stewart / John Parr
-August 5, 1985          Nick Mason, Alan White and Stan Lynch
-August 12, 1985         Dire Straits
-August 19, 1985         Scorpions / Eddie and the Tide
-August 26, 1985         John Waite / Cheap Trick
-September 2, 1985       Michael McDonald / Greg Rollie
-September 9, 1985       Ray Davies
-September 16, 1985      The Motels / Jon Butcher Axis
-September 23, 1985      Ronnie James Dio / Quarterflash
-September 30, 1985      Starship
-October 7, 1985         Cheech and Chong / The Hooters
-October 14, 1985        Phantom, Rocker and Slick / Tommy Shaw
-October 21, 1985        Loverboy
-October 28, 1985        Stevie Ray Vaughan / Wang Chung
-November 4, 1985        Aerosmith
-November 11, 1985       Triumph / INXS
-November 18, 1985       Geddy Lee (Rush)
-November 25, 1985       Simple Minds / Jon Anderson (Yes)
-December 2, 1985        Pete Townshend
-December 9, 1985        Asia
-December 11, 1985       Roger Daltrey
-December 16, 1985       Twisted Sister
-December 23, 1985       Tom Petty
-December 30, 1985       Best of Rockline 1985
+Broadcast Date              Guests
+---------------             -------
+January 7, 1985             KISS / Giuffria
+January 14, 1985            George Thorogood / John Parr
+January 21, 1985            Toto / John Cafferty
+January 28, 1985            Ronnie James Dio / John Waite
+February  4, 1985           REO Speedwagon
+February  11, 1985          Patty Smyth (Scandal) / Elliot Easton (The Cars)
+February  18, 1985          Deep Purple
+February  25, 1985          The Firm
+March 4, 1985               Greg Kihn / Autograph
+March 11, 1985              Don Henley, Peter Wolf and Night Ranger
+March 18, 1985              Twisted Sister / Utopia
+March 25, 1985              Carlos Santana
+April 8, 1985               Foreigner
+April 15, 1985              Glenn Frey / Michael Bolton
+April 22, 1985              Kenny Loggins / Spinal Tap
+April 29, 1985              Bryan Adams
+May 6, 1985                 Joe Walsh
+May 13, 1985                Dokken / Fiona / Lone Justice
+May 20, 1985                Supertramp
+May 27, 1985                Tom Petty and the Heartbreakers
+June 3, 1985                Robert Plant
+June 10, 1985               Ratt / Van Zant
+June 17, 1985               Bob Dylan
+June 24, 1985               John Cafferty / Kim Mitchell
+June 26, 1985 (Wed.)        Phil Collins
+July 1, 1985                Night Ranger
+July 8, 1985                Tears for Fears / Billy Crystal
+July 15, 1985               Heart
+July 22, 1985               Jeff Beck / R.E.M.
+July 29, 1985               Dave Stewart / John Parr
+August 5, 1985              Nick Mason, Alan White and Stan Lynch
+August 12, 1985             Dire Straits
+August 19, 1985             Scorpions / Eddie and the Tide
+August 26, 1985             John Waite / Cheap Trick
+September 2, 1985           Michael McDonald / Greg Rollie
+September 9, 1985           Ray Davies
+September 16, 1985          The Motels / Jon Butcher Axis
+September 23, 1985          Ronnie James Dio / Quarterflash
+September 30, 1985          Starship
+October 7, 1985             Cheech and Chong / The Hooters
+October 14, 1985            Phantom, Rocker and Slick / Tommy Shaw
+October 21, 1985            Loverboy
+October 28, 1985            Stevie Ray Vaughan / Wang Chung
+November 4, 1985            Aerosmith
+November 11, 1985           Triumph / INXS
+November 18, 1985           Geddy Lee (Rush)
+November 25, 1985           Simple Minds / Jon Anderson (Yes)
+December 2, 1985            Pete Townshend
+December 9, 1985            Asia
+December 11, 1985 (Wed.)    Roger Daltrey
+December 16, 1985           Twisted Sister
+December 23, 1985           Tom Petty
+December 30, 1985           Best of Rockline 1985
 
 ## 1986 {#rl1986 .unlisted .unnumbered}
 
