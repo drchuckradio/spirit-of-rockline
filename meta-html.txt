@@ -2,7 +2,7 @@
 title: The Spirit of Rockline
 author:
 - Charles Kunz
-date: 'July 28, 2023'
+date: 'August 1, 2023'
 rights: © 2023 Charles Kunz, CC BY-SA 4.0
 header-includes: |
   <style>
