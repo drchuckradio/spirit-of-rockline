@@ -267,7 +267,7 @@ legacy of Bob Coburn and _Rockline_ by broadcasting replays and tributes. A
 Facebook group named **Tribute to Bob Coburn**^[<<https://www.facebook.com/groups/TributeToBC>>]
 was created, bringing together fans from all over the globe. In 2022, he was
 posthumously inducted into the Radio Hall of Fame.^[<<https://www.radiohalloffame.com/bob-coburn>>]
-For further articles and links with memories of Bob Cobuern, see
+For further articles and links with memories of Bob Coburn, see
 [Remembering Bob Coburn].
 
 It's been a "long, strange trip," but what a trip it was. My contributions
