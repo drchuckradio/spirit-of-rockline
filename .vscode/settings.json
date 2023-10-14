@@ -1,7 +1,4 @@
 {
-  "editor.rulers": [
-    80
-  ],
   "markdownlint.config": {
     "MD035": false,
     "MD051": false
