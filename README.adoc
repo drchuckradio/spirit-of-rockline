@@ -1,0 +1,14 @@
+= The Spirit of Rockline
+
+This ebook contains my personal history with the radio shows _Rockline_
+and _Modern Rock Live_, along with lists of past guests.
+
+== How to build the documents
+
+The text is written in
+https://daringfireball.net/projects/markdown/[Markdown].
+The ebook is built with the document converter
+https://pandoc.org[Pandoc],
+and is output in the epub and HTML formats. The file `build.bat`
+can be run in a Windows command prompt, and will build both documents
+in the subfolder `build`.
